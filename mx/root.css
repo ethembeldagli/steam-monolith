@@ -1,0 +1,17 @@
+:root{--bg-solid:#0b0b0a;--bg:#0b0b0a;--text:#f1eee4;--mute:#8a877c;--acc:#d4ff3a;--acc2:#ff4d1f;
+--font:'Space Grotesk',system-ui,sans-serif;--font-display:'JetBrains Mono',monospace;--r:0px;--grain:.09;
+--panel:#0b0b0a;--pop:#11110f;--input:transparent;--hover:#d4ff3a14;--line:#f1eee41f;--thumb:#f1eee433;--ring:#d4ff3a55;
+--fx:linear-gradient(#f1eee40a 1px,transparent 1px) 0 0/100% 96px,linear-gradient(90deg,#f1eee40a 1px,transparent 1px) 0 0/96px 100%;
+--nav-tt:uppercase;--nav-ls:.14em;
+--h-size:48px;--h-w:700;--h-ls:-.05em;--h-tt:uppercase;--h-fill:linear-gradient(#f1eee4,#f1eee4);
+--rule:#f1eee4;--menu-shift:22px;--blur-filter:blur(40px) grayscale(.6) contrast(1.2);
+--btn-r:0;--btn-bg:transparent;--btn-fg:#f1eee4;--btn-border:1px solid #f1eee4;--btn-bg-h:#d4ff3a;--btn-fg-h:#0b0b0a;--btn-ls:.12em;--btn-tt:uppercase;
+--btn-glow:6px 6px 0 #f1eee4;--btn-pri:#d4ff3a;--btn-pri-fg:#0b0b0a}
+:root{--surface-solid:#11110f;--surface-solid-2:#181816;--surface:#0b0b0a;--surface-2:#151513;--dock:#0b0b0ae6;--hi:transparent;--line-hi:#f1eee4;--spot:#d4ff3a12;--gap:0px;--rx:0px;--rx-xl:0px;--icon-r:0;
+--sel:#d4ff3a;--sel-fg:#0b0b0a;--font-mono:'JetBrains Mono',monospace;--sh-size:13px;--sh-ls:.16em}
+:root{--st-background:8,8,7!important;--st-color-1:13,13,12!important;--st-color-2:22,22,20!important;--st-color-3:17,17,15!important;--st-color-4:19,19,17!important;--st-color-5:40,40,36!important;--st-color-6:34,34,31!important;--st-accent-1:212,255,58!important;--st-accent-2:241,238,228!important;--st-blue:255,77,31!important;--st-blue-hover:255,105,66!important;--st-green:150,210,40!important;--st-green-hover:170,230,60!important;--st-red:255,60,40!important;--st-red-hover:255,90,70!important;--st-yellow:255,200,0!important;--st-yellow-hover:255,215,60!important;--st-border-radius:0px!important}
+:root{--logo-a:"MONOLITH";--logo-b:"/26";--logo-font:700 12px 'JetBrains Mono',monospace;--logo-ls:.18em}
+:root{--nav-font:'JetBrains Mono',monospace;--nav-size:11px;--nav-tt:uppercase;--nav-ls:.16em;--nav-r:0;--nav-sel-bg:#d4ff3a;--nav-sel-fg:#0b0b0a;--nav-num:counter(nav,decimal-leading-zero)}
+:root{--store-h1:44px;--arrow-r:0;--price-bg:#d4ff3a;--price-fg:#0b0b0a}
+:root{--cover-r:0;--shelf-size:30px;--cover-glow:8px 8px 0 #d4ff3a;--rail-bg:#0b0b0a}
+:root{--login-h:40px;--avatar-r:0;--bubble-r:0;--login-glow:6px 6px 0 var(--acc);--stat-size:22px}
