@@ -15,3 +15,4 @@
 :root{--store-h1:44px;--arrow-r:0;--price-bg:#d4ff3a;--price-fg:#0b0b0a}
 :root{--cover-r:0;--shelf-size:30px;--cover-glow:8px 8px 0 #d4ff3a;--rail-bg:#0b0b0a}
 :root{--login-h:40px;--avatar-r:0;--bubble-r:0;--login-glow:6px 6px 0 var(--acc);--stat-size:22px}
+:root{--play-r:0px}

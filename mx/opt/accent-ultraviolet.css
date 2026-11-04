@@ -1,4 +1,4 @@
 @layer opt{
-:root{--acc:#a78bff!important;--acc2:#d4ff3a!important;--ring:#a78bff40!important;--spot:#a78bff1f!important;--line-hi:#a78bff66!important;--sel:#a78bff!important;--sel-fg:#0b0b0a!important;--nav-sel-fg:#0b0b0a!important;--btn-pri:linear-gradient(110deg,#a78bff,#d4ff3a,#a78bff)!important;--btn-pri-fg:#0b0b0a!important;--price-bg:#a78bff!important;--price-fg:#0b0b0a!important;--st-accent-1:167,139,255!important;--st-accent-2:212,255,58!important;--st-blue:167,139,255!important;--st-blue-hover:212,255,58!important}
+:root{--acc:#a78bff!important;--acc2:#d4ff3a!important;--ring:#a78bff40!important;--spot:#a78bff1f!important;--line-hi:#a78bff66!important;--sel:#a78bff!important;--sel-fg:#0b0b0a!important;--nav-sel-fg:#0b0b0a!important;--btn-pri:#a78bff!important;--btn-pri-fg:#0b0b0a!important;--price-bg:#a78bff!important;--price-fg:#0b0b0a!important;--st-accent-1:167,139,255!important;--st-accent-2:212,255,58!important;--st-blue:167,139,255!important;--st-blue-hover:212,255,58!important}
 :root{--nav-sel-bg:#a78bff!important}
 }
