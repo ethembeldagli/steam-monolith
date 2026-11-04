@@ -1,4 +1,3 @@
-(()=>{const l=document.createElement('link');l.rel='stylesheet';l.href='https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400..700&family=JetBrains+Mono:wght@400;600&display=swap';(document.head||document.documentElement).appendChild(l)})();
 // Recolor Steam's hardcoded store/community blues (and darks on light themes) to the theme surface.
 // Runs in small idle-time slices so it never blocks loading or scrolling.
 (()=>{
